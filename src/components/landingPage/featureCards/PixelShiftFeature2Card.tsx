@@ -11,13 +11,14 @@ function PixelShiftFeature2Card() {
     >
       <div className="flex flex-col justify-start gap-[10px] w-full">
         <h4 className="text-[#2a3c54] text-[20px] tracking-[-0.3px] leading-[1.4em]">
-          PixelShift: Multi-Device Preview Extension for your browser
+          Clyro Preview: Components That Shine Everywhere
         </h4>
         <p className="text-[#6a6f7c] poppins-regular">
-          PixelShift allows you to preview your website on over 50 devices,
-          ensuring it looks flawless across all screen sizes. It helps you save
-          up to $50,000 annually compared to alternatives. Plus, it's
-          open-source, so you can customize and contribute to the project.
+          Clyro components are built to be lightweight, responsive, and visually
+          consistent on any screen size. Whether on desktop, tablet, or mobile,
+          they maintain pixel-perfect alignment and smooth performance without
+          extra configuration. All open-source, so you can tweak, extend, and
+          make them truly yours.
         </p>
         <div>
           <p className="text-white/80 underline-offset-4 hover:text-white hover:underline transition duration-300 ease-in-out poppins-regular">

@@ -12,15 +12,15 @@ function ClyroComponentsFeatureCard() {
     <section className="flex flex-col bg-white rounded-[16px] md:flex-[1.5_0_0px] gap-[60px] justify-start overflow-hidden p-[30px] md:p-[40px] relative w-full border-[1px] border-solid border-[#e1e2e3] md:h-full shadow-md">
       <div className="flex flex-col justify-start gap-[10px] w-full z-[10]">
         <h3 className="text-[#2A3C54] text-[20px] tracking-[-0.3px] leading-[1.4em]">
-          PixelShift: The Simple, Free Solution for Responsive Testing
+          Clyro UI: The Unified Component System
         </h3>
         <p className="text-[#6A6F7C] poppins-regular">
-          Pixelshift is an open-source tool designed for effortless{" "}
-          <strong>responsive design testing</strong>. It allows you to preview
-          and adjust your website's layout across{" "}
-          <strong>multiple screen sizes</strong> and devices, ensuring
-          consistent user experience and perfect alignment. Save time and ensure
-          cross-device compatibility with Pixelshift's easy-to-use interface.
+          Clyro UI is an open-source, cross-platform component library for
+          React, React Native, and Figma. It helps you build beautiful,
+          consistent interfaces faster, with perfectly synced design and
+          development components. Enjoy a single source of truth for your UI,
+          ensuring pixel-perfect alignment, accessibility, and rapid iteration
+          across platforms.
         </p>
         <div>
           <a
